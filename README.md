@@ -5,4 +5,4 @@
 
 * 프로젝트 실행:
 
-### `npm start`
+- `npm start`
